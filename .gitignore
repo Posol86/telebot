@@ -1,0 +1,6 @@
+.idea/
+.pytest_cache/
+venv/
+.python-version
+__pycache__/
+read.me
